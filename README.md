@@ -1,16 +1,10 @@
-# my_app
+# Flutter Todo
 
-A new Flutter project.
+A simple todo application in flutter
 
-## Getting Started
+### Screenshots
 
-This project is a starting point for a Flutter application.
+<img width="300" alt="Screenshot 2023-05-21 at 6 52 47 PM" src="https://github.com/KhalidObaide/flutter-todo/assets/46670360/714888b6-7d1d-4bc7-860a-f6d2cb3e06f7">
+<img width="300" alt="Screenshot 2023-05-21 at 6 52 55 PM" src="https://github.com/KhalidObaide/flutter-todo/assets/46670360/33eb1c2b-8390-41d7-a734-ccfcf7fd98ed">
+<img width="300" alt="Screenshot 2023-05-21 at 6 56 01 PM" src="https://github.com/KhalidObaide/flutter-todo/assets/46670360/6d2972cd-177c-4aaf-aeed-1dbc1831ec4b">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
